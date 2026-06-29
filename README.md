@@ -30,3 +30,7 @@ This project allows users to add, edit, and delete tasks directly in the browser
 
 Open `index.html` in any web browser.
 <!-- Explains project details and usage -->
+
+## Live Website
+
+https://mvkprasad06-ctrl.github.io/simple-task-management/
