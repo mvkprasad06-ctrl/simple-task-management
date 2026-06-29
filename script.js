@@ -1,3 +1,4 @@
+// Handles add, edit, and delete task functionality
 const taskInput = document.getElementById("taskInput");
 const taskList = document.getElementById("taskList");
 
