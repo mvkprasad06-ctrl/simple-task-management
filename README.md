@@ -29,3 +29,4 @@ This project allows users to add, edit, and delete tasks directly in the browser
 ## How to Run
 
 Open `index.html` in any web browser.
+<!-- Explains project details and usage -->
